@@ -61,7 +61,7 @@ It is used to describe the running time of an algorithm - how much time an algor
 3. Omega Notation - calculate the best case complexity
 
 // Diagrom image
-![alt text](http://url/to/diagrom(time-space).png)
+![alt text](https://github.com/abhinandpn/dsa-golang/blob/main/diagrom.png)
 
 # Oprations and Complexity
 1. set
