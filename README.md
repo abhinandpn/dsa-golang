@@ -60,7 +60,6 @@ It is used to describe the running time of an algorithm - how much time an algor
 2. Theta Notation - calculate the avarage case complexity
 3. Omega Notation - calculate the best case complexity
 
-// Diagrom image
 ![alt text](https://github.com/abhinandpn/dsa-golang/blob/main/diagrom.png)
 
 # Oprations and Complexity
